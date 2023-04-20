@@ -3,7 +3,8 @@ Credit risk analyzing using Machine Learning (Supervised learning-Classification
 Credit Risk Analysis
 This GitHub repository contains code for a machine learning classification project aimed at predicting loan status as either approved or rejected. The project uses data from Kaggle, which originally belonged to a lending club based in the U.S.
 
-Data Set
+[Data Set](https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset)
+
 The data set used for this project includes a variety of factors that were used to determine loan approval or rejection, such as debt-to-income ratio, income, property owned, and previous defaults. The target column had an imbalance, which was resolved by using oversampling techniques (SMOTE).
 
 Classification Algorithms
