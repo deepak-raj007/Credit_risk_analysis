@@ -1,4 +1,4 @@
-# Credit_risk_analysis
+# Credit risk analysis
 Credit risk analyzing using Machine Learning (Supervised learning-Classification)
 Credit Risk Analysis
 This GitHub repository contains code for a machine learning classification project aimed at predicting loan status as either approved or rejected. The project uses data from Kaggle, which originally belonged to a lending club based in the U.S.
